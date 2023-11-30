@@ -1,6 +1,5 @@
 # Airline-reservation-system
 
-Hey guys , I wrote the program mentioned above on airline reservation system.
 Technologies - Core java 
 Front end - HTML , Javascript
 Database - MySQL
